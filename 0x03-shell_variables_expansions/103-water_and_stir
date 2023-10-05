@@ -1,0 +1,2 @@
+#!/bin/bash
+result_bestchol=$(echo "obase=bestchol; $result_dec" | bc)
